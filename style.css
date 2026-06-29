@@ -1,0 +1,10 @@
+.row{
+    display: flex;
+    justify-content: center;
+}
+.col{
+    background-color: #32a78e;
+    width: 15vh;
+    height: 15vh;
+    border: 1px solid black;
+}
